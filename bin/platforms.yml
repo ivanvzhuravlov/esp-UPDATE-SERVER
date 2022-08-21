@@ -1,0 +1,15 @@
+home_plc:
+  downloads: 0
+  file: null
+  uploaded: null
+  version: null
+  whitelist: null
+reclouser:
+  downloads: 2
+  file: reclouser_2_5_4.bin
+  uploaded: '2022-08-12'
+  version: 2.5.4
+  whitelist:
+  - a848faf04081
+  - a848faf00441
+  - a848faf00021
